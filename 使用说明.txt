@@ -1,3 +1,9 @@
-��speed���Ƶ�wamp->wwwĿ¼��
-�������ݿ�
-���ʵ�ַ��http://localhost/speed/index.php/Home/login
+﻿将speed复制到wamp->www目录下
+
+导入数据库
+
+访问地址：http://localhost/speed/index.php/Home/login
+
+默认登录账号：admin 密码：123456
+
+可以自己注册再登录
