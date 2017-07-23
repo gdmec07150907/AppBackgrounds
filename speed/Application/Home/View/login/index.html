@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>速捷管理后台 </title>
+
+    <!-- Bootstrap -->
+    <link href="__PUBLIC__/vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link href="__PUBLIC__/vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!-- NProgress -->
+    <link href="__PUBLIC__/vendors/nprogress/nprogress.css" rel="stylesheet">
+    <!-- Animate.css -->
+    <link href="__PUBLIC__/vendors/animate.css/animate.min.css" rel="stylesheet">
+
+    <!-- Custom Theme Style -->
+    <link href="__PUBLIC__/css/custom.min.css" rel="stylesheet">
+
+    <script src="__PUBLIC__/JQM/jquery-1.11.1.min.js"></script>
+
+  </head>
+
+  <body class="login">
+    <div>
+      <a class="hiddenanchor" id="signup"></a>
+      <a class="hiddenanchor" id="signin"></a>
+
+      <div class="login_wrapper">
+        <div class="animate form login_form">
+          <section class="login_content">
+            <form name="LoginForm" method="post" action="__URL__/Logindo" data-ajax="false">
+              <h1>登录</h1>
+              <div>
+                <input name="username" id="username" type="text" class="form-control" placeholder="用户名" required="" />
+              </div>
+              <div>
+                <input name="password" id="password" type="password" class="form-control" placeholder="密码" required="" />
+              </div>
+              <div>
+                <input type="submit" id="submit" name="submit" value="登录"></input>
+                <a class="reset_pass" href="#">忘记密码？</a>
+              </div>
+
+              <div class="clearfix"></div>
+
+              <div class="separator">
+                <p class="change_link">注册使用？
+                  <a href="#signup" class="to_register"> 注册新用户 </a>
+                </p>
+
+                <div class="clearfix"></div>
+                <br />
+
+                <div>
+                  <h1><i class="fa fa-paw"></i> 速捷后台管理系统</h1>
+                  <p>©2016 All Rights Reserved. Gentelella Alela! is a Bootstrap 3 template. Privacy and Terms</p>
+                </div>
+              </div>
+            </form>
+          </section>
+        </div>
+
+        <div id="register" class="animate form registration_form">
+          <section class="login_content">
+            <form name="RegisterForm" method="post" action="__URL__/Registerdo" data-ajax="false">
+              <h1>注册新用户</h1>
+              <div data-role="fieldcontain">
+                <input type="text" name="administrators_name" class="form-control" placeholder="用户名" required="" />
+              </div>
+              <div data-role="fieldcontain">
+                <input type="password" name="administrators_password" class="form-control" placeholder="密码" required="" />
+              </div>
+              <div data-role="fieldcontain">
+                <input type="password" name="administrators_password2" class="form-control" placeholder="确认密码" required="" />
+              </div>
+              <div data-role="fieldcontain">
+                <input type="text" name="administrators_phone" class="form-control" placeholder="电话号码" required="" />
+              </div>
+              <!-- 
+              <div data-role="fieldcontain">
+                <input type="text" name="administrators_email" class="form-control" placeholder="邮箱" required="" />
+              </div>
+              <div data-role="fieldcontain">
+                <input type="text" name="administrators_idNumber" class="form-control" placeholder="身份证号" required="" />
+              </div>
+              -->
+              <div>
+                <input data-inline="true" type="submit" name="submit" value="提交"  />
+                <a  href="#signin"><input data-ajax="false" data-inline="true"  type="button" value="取消"/></a>
+              </div>
+
+                <div class="clearfix"></div>
+
+              <div class="separator">
+                <p class="change_link">已经有帐号 ?
+                  <a href="#signin" class="to_register"> 登录 </a>
+                </p>
+
+                <div class="clearfix"></div>
+                <br />
+
+                <div>
+                  <h1><i class="fa fa-paw"></i> 速捷后台管理系统</h1>
+                  <p>©2016 All Rights Reserved. Gentelella Alela! is a Bootstrap 3 template. Privacy and Terms</p>
+                </div>
+              </div>
+            </form>
+          </section>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

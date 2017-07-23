@@ -1,0 +1,54 @@
+[ 2017-05-24T00:04:51+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001479s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-05-24T00:04:57+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001741s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-05-24T00:08:03+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001068s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-05-24T00:08:18+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001028s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-05-24T00:11:16+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001268s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-05-24T00:12:50+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001062s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-05-24T00:13:05+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002148s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-05-24T00:13:55+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001560s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-05-24T00:14:05+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001035s ]
+ERR: 无法加载模块:Vendors
+

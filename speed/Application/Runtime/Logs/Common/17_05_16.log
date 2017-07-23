@@ -1,0 +1,642 @@
+[ 2017-05-16T19:22:14+08:00 ] ::1 /speed/index.php/Public/vendors/bootstrap/dist/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001606s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:14+08:00 ] ::1 /speed/index.php/Public/vendors/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001198s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:14+08:00 ] ::1 /speed/index.php/Public/vendors/bootstrap-daterangepicker/daterangepicker.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001960s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:14+08:00 ] ::1 /speed/index.php/Public/vendors/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001803s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:14+08:00 ] ::1 /speed/index.php/Public/vendors/nprogress/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001372s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:14+08:00 ] ::1 /speed/index.php/Public/css/custom.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009438s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:14+08:00 ] ::1 /speed/index.php/Public/JQM/jquery-1.10.2/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000189s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003184s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:14+08:00 ] ::1 /speed/index.php/Public/css/common.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001863s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:14+08:00 ] ::1 /speed/index.php/Public/vendors/Chart.js/dist/Chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001483s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:14+08:00 ] ::1 /speed/index.php/Public/vendors/jquery/dist/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001252s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:14+08:00 ] ::1 /speed/index.php/Public/vendors/jquery-sparkline/dist/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002180s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:14+08:00 ] ::1 /speed/index.php/Public/vendors/raphael/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001282s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:15+08:00 ] ::1 /speed/index.php/Public/vendors/nprogress/nprogress.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001283s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:15+08:00 ] ::1 /speed/index.php/Public/vendors/fastclick/lib/fastclick.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001830s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:15+08:00 ] ::1 /speed/index.php/Public/vendors/bootstrap/dist/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001306s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:15+08:00 ] ::1 /speed/index.php/Public/vendors/Flot/jquery.flot.pie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001362s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:15+08:00 ] ::1 /speed/index.php/Public/vendors/morris.js/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.038675s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:15+08:00 ] ::1 /speed/index.php/Public/vendors/Flot/jquery.flot.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003220s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:15+08:00 ] ::1 /speed/index.php/Public/vendors/skycons/skycons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001441s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:15+08:00 ] ::1 /speed/index.php/Public/vendors/gauge.js/dist/gauge.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001857s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:15+08:00 ] ::1 /speed/index.php/Public/vendors/Flot/jquery.flot.time.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001444s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:15+08:00 ] ::1 /speed/index.php/Public/vendors/bootstrap-progressbar/bootstrap-progressbar.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.094060s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:15+08:00 ] ::1 /speed/index.php/Public/vendors/Flot/jquery.flot.resize.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001463s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:15+08:00 ] ::1 /speed/index.php/Public/vendors/flot.orderbars/js/jquery.flot.orderBars.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001516s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:15+08:00 ] ::1 /speed/index.php/Public/vendors/flot.curvedlines/curvedLines.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001418s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:15+08:00 ] ::1 /speed/index.php/Public/vendors/flot-spline/js/jquery.flot.spline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001385s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:15+08:00 ] ::1 /speed/index.php/Public/vendors/Flot/jquery.flot.stack.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001440s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:15+08:00 ] ::1 /speed/index.php/Public/vendors/DateJS/build/date.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003421s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:15+08:00 ] ::1 /speed/index.php/Public/vendors/moment/min/moment.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001455s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:15+08:00 ] ::1 /speed/index.php/Public/vendors/bootstrap-daterangepicker/daterangepicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001461s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:15+08:00 ] ::1 /speed/index.php/Public/js/custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001566s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:15+08:00 ] ::1 /speed/index.php/Public/images/ico.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001216s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:15+08:00 ] ::1 /speed/index.php/Public/vendors/fastclick/lib/fastclick.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001754s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:15+08:00 ] ::1 /speed/index.php/Public/vendors/nprogress/nprogress.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001509s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:15+08:00 ] ::1 /speed/index.php/Public/vendors/Chart.js/dist/Chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001132s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:15+08:00 ] ::1 /speed/index.php/Public/vendors/jquery-sparkline/dist/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001014s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:15+08:00 ] ::1 /speed/index.php/Public/vendors/raphael/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001010s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:15+08:00 ] ::1 /speed/index.php/Public/vendors/morris.js/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001194s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:15+08:00 ] ::1 /speed/index.php/Public/vendors/gauge.js/dist/gauge.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001200s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:16+08:00 ] ::1 /speed/index.php/Public/vendors/bootstrap-progressbar/bootstrap-progressbar.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001298s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:16+08:00 ] ::1 /speed/index.php/Public/vendors/skycons/skycons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001616s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:16+08:00 ] ::1 /speed/index.php/Public/vendors/Flot/jquery.flot.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001313s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:16+08:00 ] ::1 /speed/index.php/Public/vendors/Flot/jquery.flot.pie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001328s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:16+08:00 ] ::1 /speed/index.php/Public/vendors/Flot/jquery.flot.time.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001456s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:16+08:00 ] ::1 /speed/index.php/Public/vendors/Flot/jquery.flot.stack.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001365s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:16+08:00 ] ::1 /speed/index.php/Public/vendors/Flot/jquery.flot.resize.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001266s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:16+08:00 ] ::1 /speed/index.php/Public/vendors/flot.orderbars/js/jquery.flot.orderBars.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001676s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:16+08:00 ] ::1 /speed/index.php/Public/vendors/flot-spline/js/jquery.flot.spline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001335s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:16+08:00 ] ::1 /speed/index.php/Public/vendors/flot.curvedlines/curvedLines.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001150s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:16+08:00 ] ::1 /speed/index.php/Public/vendors/DateJS/build/date.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001219s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:16+08:00 ] ::1 /speed/index.php/Public/vendors/moment/min/moment.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001247s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:17+08:00 ] ::1 /speed/index.php/Public/vendors/bootstrap-daterangepicker/daterangepicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001280s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:17+08:00 ] ::1 /speed/index.php/Public/js/custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:21+08:00 ] ::1 /speed/index.php/Public/vendors/bootstrap/dist/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001414s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001029s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/css/common.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001443s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/JQM/jquery-1.10.2/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000957s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/nprogress/nprogress.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001460s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/bootstrap-daterangepicker/daterangepicker.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000935s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001153s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/css/custom.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001181s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/bootstrap/dist/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001510s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/Chart.js/dist/Chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000982s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/fastclick/lib/fastclick.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001479s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/nprogress/nprogress.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002149s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/jquery/dist/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.040535s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/jquery-sparkline/dist/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001080s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/raphael/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001029s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/skycons/skycons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001039s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/morris.js/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001476s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/bootstrap-progressbar/bootstrap-progressbar.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001059s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/bootstrap/dist/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002056s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/gauge.js/dist/gauge.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000987s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/Flot/jquery.flot.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001152s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/Flot/jquery.flot.pie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001251s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/Flot/jquery.flot.resize.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001244s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/Flot/jquery.flot.time.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001195s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/fastclick/lib/fastclick.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001422s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/Flot/jquery.flot.stack.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001256s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/flot.orderbars/js/jquery.flot.orderBars.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001446s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/flot.curvedlines/curvedLines.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001261s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/flot-spline/js/jquery.flot.spline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001199s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/DateJS/build/date.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001255s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/nprogress/nprogress.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001181s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/bootstrap-daterangepicker/daterangepicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001175s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/moment/min/moment.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001184s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/Chart.js/dist/Chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/js/custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001167s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/images/ico.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001189s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/jquery-sparkline/dist/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000884s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:22+08:00 ] ::1 /speed/index.php/Public/vendors/raphael/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000895s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:23+08:00 ] ::1 /speed/index.php/Public/vendors/morris.js/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001329s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:23+08:00 ] ::1 /speed/index.php/Public/vendors/gauge.js/dist/gauge.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001215s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:23+08:00 ] ::1 /speed/index.php/Public/vendors/bootstrap-progressbar/bootstrap-progressbar.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001576s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:23+08:00 ] ::1 /speed/index.php/Public/vendors/skycons/skycons.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000975s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:23+08:00 ] ::1 /speed/index.php/Public/vendors/Flot/jquery.flot.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000821s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:23+08:00 ] ::1 /speed/index.php/Public/vendors/Flot/jquery.flot.pie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000844s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:23+08:00 ] ::1 /speed/index.php/Public/vendors/Flot/jquery.flot.time.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:23+08:00 ] ::1 /speed/index.php/Public/vendors/Flot/jquery.flot.stack.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000825s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:23+08:00 ] ::1 /speed/index.php/Public/vendors/Flot/jquery.flot.resize.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001198s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:23+08:00 ] ::1 /speed/index.php/Public/vendors/flot.orderbars/js/jquery.flot.orderBars.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000850s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:23+08:00 ] ::1 /speed/index.php/Public/vendors/flot-spline/js/jquery.flot.spline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000862s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:23+08:00 ] ::1 /speed/index.php/Public/vendors/flot.curvedlines/curvedLines.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000835s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:23+08:00 ] ::1 /speed/index.php/Public/vendors/DateJS/build/date.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000870s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:23+08:00 ] ::1 /speed/index.php/Public/vendors/moment/min/moment.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001372s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:23+08:00 ] ::1 /speed/index.php/Public/vendors/bootstrap-daterangepicker/daterangepicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001252s ]
+ERR: 无法加载模块:Public
+
+[ 2017-05-16T19:22:23+08:00 ] ::1 /speed/index.php/Public/js/custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001544s ]
+ERR: 无法加载模块:Public
+

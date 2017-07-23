@@ -1,0 +1,2521 @@
+[ 2017-05-24T00:04:35+08:00 ] ::1 /speed/Home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.018484s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018178s ]
+SQL: SHOW COLUMNS FROM `think_userinfo` [ RunTime:0.0995s ]
+SQL: SELECT * FROM `think_userinfo`  [ RunTime:0.0215s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000407s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000627s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.124772s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.125023s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.017207s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017414s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.016351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.016574s ]
+
+[ 2017-05-24T00:04:37+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000969s ]
+
+[ 2017-05-24T00:04:51+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000961s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001648s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0482s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0078s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000306s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000526s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049305s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049553s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000842s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002017s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002231s ]
+
+[ 2017-05-24T00:04:51+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000968s ]
+
+[ 2017-05-24T00:04:52+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001019s ]
+
+[ 2017-05-24T00:04:56+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000963s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001834s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0245s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000338s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000582s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037961s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038324s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000792s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000999s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001610s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001829s ]
+
+[ 2017-05-24T00:04:57+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012330s ]
+
+[ 2017-05-24T00:08:03+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001173s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001608s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0044s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000208s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000499s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024953s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025114s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000836s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001156s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001296s ]
+
+[ 2017-05-24T00:08:04+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001220s ]
+
+[ 2017-05-24T00:08:18+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000945s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002245s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000314s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000546s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033178s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000852s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001514s ]
+
+[ 2017-05-24T00:08:19+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002024s ]
+
+[ 2017-05-24T00:11:16+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001378s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002585s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000433s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000688s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051093s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051387s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001172s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001391s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002095s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002380s ]
+
+[ 2017-05-24T00:11:16+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001275s ]
+
+[ 2017-05-24T00:12:49+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002967s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000493s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000751s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047228s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047501s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001137s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001425s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002491s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002737s ]
+
+[ 2017-05-24T00:12:50+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001231s ]
+
+[ 2017-05-24T00:13:05+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004677s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002911s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000383s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000637s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042756s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042989s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000960s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001149s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001723s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001980s ]
+
+[ 2017-05-24T00:13:06+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002438s ]
+
+[ 2017-05-24T00:13:54+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004367s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000412s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000694s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044990s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045302s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001012s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001290s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002278s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002544s ]
+
+[ 2017-05-24T00:13:55+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000137s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001088s ]
+
+[ 2017-05-24T00:14:04+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001116s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001846s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002101s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000357s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000564s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034478s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034689s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000804s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000973s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001633s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001815s ]
+
+[ 2017-05-24T00:14:05+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001920s ]
+
+[ 2017-05-24T00:17:05+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000124s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002533s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000550s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000842s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045647s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045917s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001002s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001252s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002146s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002383s ]
+
+[ 2017-05-24T00:17:06+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001593s ]
+
+[ 2017-05-24T00:18:01+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000423s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001589s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002612s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000496s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000787s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049478s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049759s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001244s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002594s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002140s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002476s ]
+
+[ 2017-05-24T00:18:01+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001150s ]
+
+[ 2017-05-24T00:22:13+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001855s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003819s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000467s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000743s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050182s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050504s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001552s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001913s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002722s ]
+
+[ 2017-05-24T00:22:14+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001898s ]
+
+[ 2017-05-24T00:23:50+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000170s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001677s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002431s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000477s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000821s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046796s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047213s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001112s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001337s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001995s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002662s ]
+
+[ 2017-05-24T00:23:51+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001228s ]
+
+[ 2017-05-24T00:23:51+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002591s ]
+
+[ 2017-05-24T00:28:05+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001349s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005004s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000477s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000752s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042941s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043187s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001277s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001474s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002095s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002300s ]
+
+[ 2017-05-24T00:28:05+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001258s ]
+
+[ 2017-05-24T00:28:05+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013157s ]
+
+[ 2017-05-24T00:28:55+08:00 ] ::1 /speed/index.php/Home/Driver/driverAdddo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002609s ]
+SQL: SHOW COLUMNS FROM `think_driverregister` [ RunTime:0.0067s ]
+SQL: INSERT INTO `think_driverregister` (`driver_name`,`driver_password`,`driver_phone`,`driver_email`,`driver_realName`,`driver_idNumber`,`driver_gender`) VALUES ('斌哥哥','123456','15622117239','1342367949@qq.com','马志斌','440582199612295896','男') [ RunTime:0.1680s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002183s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002442s ]
+
+[ 2017-05-24T00:28:57+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002019s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000469s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000761s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.054413s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054687s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001031s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001261s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001742s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002118s ]
+
+[ 2017-05-24T00:28:57+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000971s ]
+
+[ 2017-05-24T00:41:05+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002800s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000487s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000991s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050031s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050305s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001675s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001914s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002467s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002709s ]
+
+[ 2017-05-24T00:41:05+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002742s ]
+
+[ 2017-05-24T00:41:57+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003175s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0076s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000919s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001241s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052888s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053163s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002020s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002303s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002565s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002808s ]
+
+[ 2017-05-24T00:41:57+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002705s ]
+
+[ 2017-05-24T00:45:11+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003544s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0086s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0016s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000473s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000783s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046713s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046989s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001008s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001223s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001871s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002158s ]
+
+[ 2017-05-24T00:45:11+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001688s ]
+
+[ 2017-05-24T00:48:03+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002716s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000499s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000799s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052287s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052563s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002998s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003255s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002685s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002928s ]
+
+[ 2017-05-24T00:48:03+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001258s ]
+
+[ 2017-05-24T00:48:32+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002826s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000653s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001037s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051151s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051491s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001632s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001873s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002479s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002720s ]
+
+[ 2017-05-24T00:48:32+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001328s ]
+
+[ 2017-05-24T00:53:00+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001803s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002998s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003298s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000604s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000929s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048795s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049067s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001701s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001931s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002272s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002516s ]
+
+[ 2017-05-24T00:53:00+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003624s ]
+
+[ 2017-05-24T00:53:13+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001266s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002657s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0076s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000479s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000749s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050232s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050521s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001494s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001727s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002350s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002582s ]
+
+[ 2017-05-24T00:53:14+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001678s ]
+
+[ 2017-05-24T00:53:14+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001893s ]
+
+[ 2017-05-24T00:53:31+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001110s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002182s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000475s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000745s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.055572s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055849s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001491s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001713s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003231s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003477s ]
+
+[ 2017-05-24T00:53:32+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001137s ]
+
+[ 2017-05-24T00:58:30+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001797s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002741s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000556s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000847s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049533s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049884s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001512s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002054s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002670s ]
+
+[ 2017-05-24T00:58:30+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001968s ]
+
+[ 2017-05-24T00:58:58+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002552s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000479s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000763s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048075s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048443s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001526s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001828s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002522s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002758s ]
+
+[ 2017-05-24T00:58:59+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001569s ]
+
+[ 2017-05-24T01:09:01+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001381s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002660s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000424s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000676s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042990s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043235s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002046s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002291s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002287s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002544s ]
+
+[ 2017-05-24T01:09:01+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002237s ]
+
+[ 2017-05-24T01:09:11+08:00 ] ::1 /speed/index.php/Home/Driver/driverUpdatado
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002551s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0068s ]
+SQL: UPDATE `think_driverinfo` SET `driver_name`='15622117239',`driver_idNumber`='440582199612295896',`driver_email`='1342367949@qq.com',`driver_gender`='男',`driver_state`='不可用',`driver_credit`='5',`driver_star`='5' WHERE `driver_id` = 3 [ RunTime:0.0955s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002704s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002970s ]
+
+[ 2017-05-24T01:09:14+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002600s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000515s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000817s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047812s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048153s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001367s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001582s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002256s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002489s ]
+
+[ 2017-05-24T01:09:14+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001013s ]
+
+[ 2017-05-24T01:09:24+08:00 ] ::1 /speed/index.php/Home/Driver/driverUpdatado
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002599s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0066s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '15622117239' for key 'PRIMARY'
+
+[ 2017-05-24T01:11:40+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003089s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000474s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000882s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048301s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048569s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001358s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001575s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002511s ]
+
+[ 2017-05-24T01:11:40+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001372s ]
+
+[ 2017-05-24T01:11:40+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003169s ]
+
+[ 2017-05-24T01:11:48+08:00 ] ::1 /speed/index.php/Home/Driver/driverUpdatado
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002577s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0069s ]
+SQL: UPDATE `think_driverinfo` SET `driver_name`='15622117239',`driver_idNumber`='440582199612295896',`driver_email`='1342367949@qq.com',`driver_gender`='男',`driver_state`='可用',`driver_credit`='1',`driver_star`='1' WHERE `driver_id` = 3 [ RunTime:0.1329s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002543s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002820s ]
+
+[ 2017-05-24T01:11:51+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001585s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003940s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000498s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000784s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046634s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047008s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001426s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001647s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002601s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002860s ]
+
+[ 2017-05-24T01:11:51+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001155s ]
+
+[ 2017-05-24T01:14:44+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002849s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000506s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000803s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049162s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049430s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001540s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001812s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002674s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002959s ]
+
+[ 2017-05-24T01:14:44+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001181s ]
+
+[ 2017-05-24T01:14:51+08:00 ] ::1 /speed/index.php/Home/Driver/driverUpdatado
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002549s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0079s ]
+SQL: UPDATE `think_driverinfo` SET `driver_name`='admin',`driver_realName`='马帅',`driver_phone`='15622117239',`driver_idNumber`='440582199612295896',`driver_email`='1342367949@qq.com',`driver_gender`='男',`driver_state`='可用',`driver_credit`='1',`driver_star`='1' WHERE `driver_id` = 3 [ RunTime:0.1114s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002305s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002568s ]
+
+[ 2017-05-24T01:14:54+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003037s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000822s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001162s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048351s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048663s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001746s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002612s ]
+
+[ 2017-05-24T01:14:54+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001374s ]
+
+[ 2017-05-24T01:22:19+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002846s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000519s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000956s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048512s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048785s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001404s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001627s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005969s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006220s ]
+
+[ 2017-05-24T01:22:19+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002818s ]
+
+[ 2017-05-24T01:22:54+08:00 ] ::1 /speed/index.php/Home/Driver/driverAdddo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001110s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002312s ]
+SQL: SHOW COLUMNS FROM `think_driverregister` [ RunTime:0.0058s ]
+SQL: INSERT INTO `think_driverregister` (`driver_name`,`driver_password`,`driver_phone`,`driver_email`,`driver_realName`,`driver_idNumber`,`driver_gender`) VALUES ('fuck','123456','12345678910','1342367949@qq.com','操蛋','123456789123456','男') [ RunTime:0.1377s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003472s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003869s ]
+
+[ 2017-05-24T01:22:56+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001656s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002238s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000500s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000782s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050081s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050362s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001407s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001638s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002225s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002455s ]
+
+[ 2017-05-24T01:22:57+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001291s ]
+
+[ 2017-05-24T01:23:03+08:00 ] ::1 /speed/index.php/Home/Driver/driverUpdatado
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003182s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0076s ]
+SQL: UPDATE `think_driverinfo` SET `driver_name`='fuck',`driver_realName`='操蛋',`driver_phone`='12345678910',`driver_idNumber`='123456789123456',`driver_email`='1342367949@qq.com',`driver_gender`='男',`driver_state`='可用',`driver_credit`='1',`driver_star`='1' WHERE `driver_id` = 5 [ RunTime:0.1379s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002693s ]
+
+[ 2017-05-24T01:23:06+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002263s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000484s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000796s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.054097s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054418s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001415s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001657s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002614s ]
+
+[ 2017-05-24T01:23:06+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001554s ]
+
+[ 2017-05-24T01:23:10+08:00 ] ::1 /speed/index.php/Home/Driver/delete/driver_id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002691s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0070s ]
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dirver_id' in 'where clause'
+
+[ 2017-05-24T01:23:35+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002967s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0017s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000459s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000731s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.058807s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059094s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001343s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001578s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002197s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002435s ]
+
+[ 2017-05-24T01:23:35+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001495s ]
+
+[ 2017-05-24T01:23:39+08:00 ] ::1 /speed/index.php/Home/Driver/delete/driver_id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000433s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001747s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001974s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002317s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0074s ]
+SQL: DELETE FROM `think_driverinfo` WHERE ( driver_id =5 ) [ RunTime:0.1566s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002258s ]
+
+[ 2017-05-24T01:23:42+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000940s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002530s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000477s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000770s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047442s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047722s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000936s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001643s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001875s ]
+
+[ 2017-05-24T01:23:42+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001047s ]
+
+[ 2017-05-24T17:34:51+08:00 ] ::1 /speed/Home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002674s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002888s ]
+SQL: SHOW COLUMNS FROM `think_userinfo` [ RunTime:0.1158s ]
+SQL: SELECT * FROM `think_userinfo`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000479s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000733s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048822s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049106s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001274s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001498s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002189s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002415s ]
+
+[ 2017-05-24T17:34:52+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001782s ]
+
+[ 2017-05-24T17:35:01+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001460s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004912s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000515s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000799s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046642s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046963s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000954s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001179s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001774s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002004s ]
+
+[ 2017-05-24T17:35:01+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001271s ]
+
+[ 2017-05-24T17:35:07+08:00 ] ::1 /speed/Home/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001379s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002155s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\AdminController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\AdminController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_administrators` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `think_administrators`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000531s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000829s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044966s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045256s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000877s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001095s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001855s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002093s ]
+
+[ 2017-05-24T17:35:07+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001343s ]
+
+[ 2017-05-24T17:35:48+08:00 ] ::1 /speed/Home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000260s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001923s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002121s ]
+SQL: SHOW COLUMNS FROM `think_userinfo` [ RunTime:0.0093s ]
+SQL: SELECT * FROM `think_userinfo`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000521s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000817s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045623s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045884s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000862s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001077s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001848s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002072s ]
+
+[ 2017-05-24T17:35:48+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001213s ]
+
+[ 2017-05-24T17:37:31+08:00 ] ::1 /speed/Home/form.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002824s ]
+ERR: 无法加载控制器:Form
+
+[ 2017-05-24T19:53:29+08:00 ] ::1 /speed/Home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002941s ]
+SQL: SHOW COLUMNS FROM `think_userinfo` [ RunTime:0.0147s ]
+SQL: SELECT * FROM `think_userinfo`  [ RunTime:0.0024s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000453s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000701s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049070s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049355s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001688s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001911s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002547s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002775s ]
+
+[ 2017-05-24T19:53:29+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001161s ]
+
+[ 2017-05-24T20:07:35+08:00 ] ::1 /speed/Home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001431s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002987s ]
+SQL: SHOW COLUMNS FROM `think_userinfo` [ RunTime:0.0085s ]
+SQL: SELECT * FROM `think_userinfo`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000461s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000782s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048904s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049226s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001193s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001418s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002051s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002310s ]
+
+[ 2017-05-24T20:07:35+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001264s ]
+
+[ 2017-05-24T20:08:24+08:00 ] ::1 /speed/Home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001832s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002108s ]
+SQL: SHOW COLUMNS FROM `think_userinfo` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `think_userinfo`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000476s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000758s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043960s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044224s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000859s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001074s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001726s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001950s ]
+
+[ 2017-05-24T20:08:25+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001538s ]
+
+[ 2017-05-24T20:10:13+08:00 ] ::1 /speed/Home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003198s ]
+SQL: SHOW COLUMNS FROM `think_userinfo` [ RunTime:0.0092s ]
+SQL: SELECT * FROM `think_userinfo`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000488s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000790s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050778s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051120s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001797s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003681s ]
+
+[ 2017-05-24T20:10:14+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001151s ]
+
+[ 2017-05-24T20:10:20+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004068s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000574s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000863s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047387s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047661s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001140s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001717s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002093s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002332s ]
+
+[ 2017-05-24T20:10:20+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001213s ]
+
+[ 2017-05-24T20:11:09+08:00 ] ::1 /speed/Home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001983s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002270s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0092s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001017s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.004016s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048255s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048526s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000958s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001187s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002133s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002432s ]
+
+[ 2017-05-24T20:11:09+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001259s ]
+
+[ 2017-05-24T20:16:26+08:00 ] ::1 /speed/Home/googs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002796s ]
+ERR: 无法加载控制器:Googs
+
+[ 2017-05-24T20:16:32+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002072s ]
+
+[ 2017-05-24T20:17:04+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001858s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002126s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000735s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001003s ]
+NOTIC: [8] Undefined variable: list C:\wamp\www\speed\Application\Runtime\Cache\Home\63839bc489ada1b251c78e0251f28b7d.php 第 397 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051279s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051546s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001640s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001921s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002587s ]
+
+[ 2017-05-24T20:17:04+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001602s ]
+
+[ 2017-05-24T20:17:14+08:00 ] ::1 /speed/Home/form.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003720s ]
+ERR: 无法加载控制器:Form
+
+[ 2017-05-24T20:18:12+08:00 ] ::1 /speed/Home/form.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003717s ]
+ERR: 无法加载控制器:Form
+
+[ 2017-05-24T20:18:19+08:00 ] ::1 /speed/Home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001795s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003121s ]
+SQL: SHOW COLUMNS FROM `think_userinfo` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `think_userinfo`  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000472s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001087s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050042s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050326s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001905s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002133s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002945s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003224s ]
+
+[ 2017-05-24T20:18:19+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001530s ]
+
+[ 2017-05-24T20:18:22+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003981s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004345s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000488s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000816s ]
+NOTIC: [8] Undefined variable: list C:\wamp\www\speed\Application\Runtime\Cache\Home\63839bc489ada1b251c78e0251f28b7d.php 第 397 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.059618s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059950s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001902s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002187s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002941s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003284s ]
+
+[ 2017-05-24T20:18:23+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002590s ]
+
+[ 2017-05-24T20:18:30+08:00 ] ::1 /speed/Home/form.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002485s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002964s ]
+ERR: 无法加载控制器:Form
+
+[ 2017-05-24T20:19:02+08:00 ] ::1 /speed/Home/form.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001794s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002940s ]
+ERR: 无法加载控制器:Form
+
+[ 2017-05-24T20:19:07+08:00 ] ::1 /speed/Home/form.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003246s ]
+ERR: 无法加载控制器:Form
+
+[ 2017-05-24T20:19:18+08:00 ] ::1 /speed/Home/form.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002697s ]
+ERR: 无法加载控制器:Form
+
+[ 2017-05-24T20:19:21+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003256s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000446s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000775s ]
+NOTIC: [8] Undefined variable: list C:\wamp\www\speed\Application\Runtime\Cache\Home\63839bc489ada1b251c78e0251f28b7d.php 第 397 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.053144s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053523s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001896s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002180s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003471s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003769s ]
+
+[ 2017-05-24T20:19:22+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002531s ]
+
+[ 2017-05-24T20:19:23+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004879s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000413s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000709s ]
+NOTIC: [8] Undefined variable: list C:\wamp\www\speed\Application\Runtime\Cache\Home\63839bc489ada1b251c78e0251f28b7d.php 第 397 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.058073s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058425s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001017s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001237s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001987s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002216s ]
+
+[ 2017-05-24T20:19:23+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001685s ]
+
+[ 2017-05-24T20:19:46+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002241s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000471s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000761s ]
+NOTIC: [8] Undefined variable: list C:\wamp\www\speed\Application\Runtime\Cache\Home\63839bc489ada1b251c78e0251f28b7d.php 第 397 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047842s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048106s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000893s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001129s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002557s ]
+
+[ 2017-05-24T20:19:46+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002594s ]
+
+[ 2017-05-24T20:20:16+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003469s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000486s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000757s ]
+NOTIC: [8] Undefined variable: list C:\wamp\www\speed\Application\Runtime\Cache\Home\63839bc489ada1b251c78e0251f28b7d.php 第 387 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.080673s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.081452s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001710s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001934s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002753s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002991s ]
+
+[ 2017-05-24T20:20:16+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003889s ]
+
+[ 2017-05-24T20:21:59+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001430s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012726s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000487s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000878s ]
+NOTIC: [8] Undefined variable: list C:\wamp\www\speed\Application\Runtime\Cache\Home\63839bc489ada1b251c78e0251f28b7d.php 第 383 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.067226s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067516s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001532s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001776s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002430s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002669s ]
+
+[ 2017-05-24T20:22:00+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002038s ]
+
+[ 2017-05-24T20:23:02+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002739s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000428s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000728s ]
+NOTIC: [8] Undefined variable: list C:\wamp\www\speed\Application\Runtime\Cache\Home\63839bc489ada1b251c78e0251f28b7d.php 第 383 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048695s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048944s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001563s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001784s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002599s ]
+
+[ 2017-05-24T20:23:03+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001798s ]
+
+[ 2017-05-24T20:23:09+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001988s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002540s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000589s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000905s ]
+NOTIC: [8] Undefined variable: list C:\wamp\www\speed\Application\Runtime\Cache\Home\63839bc489ada1b251c78e0251f28b7d.php 第 383 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046159s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046426s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001158s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001374s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002340s ]
+
+[ 2017-05-24T20:23:10+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002044s ]
+
+[ 2017-05-24T20:23:24+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002541s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000478s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000749s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050441s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050763s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001182s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001432s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004271s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004528s ]
+
+[ 2017-05-24T20:23:24+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001760s ]
+
+[ 2017-05-24T22:00:12+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003799s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003138s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_goodsdescribe` [ RunTime:0.0086s ]
+SQL: SELECT * FROM `think_goodsdescribe`  [ RunTime:0.0017s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000452s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000745s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047867s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048170s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002016s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002285s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002590s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003028s ]
+
+[ 2017-05-24T22:00:12+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000142s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001817s ]
+
+[ 2017-05-24T22:22:18+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003042s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_goodsdescribe` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `think_goodsdescribe`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000516s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000833s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041918s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042187s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001697s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001921s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002800s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003039s ]
+
+[ 2017-05-24T22:22:18+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002513s ]
+
+[ 2017-05-24T22:22:29+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001652s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004333s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_goodsdescribe` [ RunTime:0.0086s ]
+SQL: SELECT * FROM `think_goodsdescribe`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000452s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000707s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047737s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001861s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002101s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003630s ]
+
+[ 2017-05-24T22:22:30+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002920s ]
+
+[ 2017-05-24T22:22:45+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001416s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002923s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006415s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_goodsdescribe` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `think_goodsdescribe`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000379s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000614s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.053338s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053687s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001736s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001986s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002356s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002549s ]
+
+[ 2017-05-24T22:22:45+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001748s ]
+
+[ 2017-05-24T22:22:54+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003014s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_goodsdescribe` [ RunTime:0.0093s ]
+SQL: SELECT * FROM `think_goodsdescribe`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000446s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000711s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.054303s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054652s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001605s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001853s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002650s ]
+
+[ 2017-05-24T22:22:55+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001903s ]
+
+[ 2017-05-24T22:28:20+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001849s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002131s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002428s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_goodsdescribe` [ RunTime:0.0087s ]
+SQL: SELECT * FROM `think_goodsdescribe`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000459s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000780s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045314s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045586s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001209s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001436s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002114s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002350s ]
+
+[ 2017-05-24T22:28:20+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002242s ]
+
+[ 2017-05-24T22:30:55+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003248s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_goodsdescribe` [ RunTime:0.0087s ]
+SQL: SELECT * FROM `think_goodsdescribe`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000450s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000743s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043342s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043645s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001141s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001382s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002254s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004287s ]
+
+[ 2017-05-24T22:30:56+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001930s ]
+
+[ 2017-05-24T22:31:31+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002739s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003063s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_goodsdescribe` [ RunTime:0.0085s ]
+SQL: SELECT * FROM `think_goodsdescribe`  [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000555s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000861s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046925s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047247s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002710s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002992s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003076s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003357s ]
+
+[ 2017-05-24T22:31:32+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002028s ]
+
+[ 2017-05-24T22:31:46+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001118s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002197s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002426s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_goodsdescribe` [ RunTime:0.0082s ]
+SQL: SELECT * FROM `think_goodsdescribe`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000418s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000705s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046311s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046579s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002720s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002998s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002700s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002964s ]
+
+[ 2017-05-24T22:31:46+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002357s ]
+
+[ 2017-05-24T22:32:23+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001751s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005678s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_goodsdescribe` [ RunTime:0.0242s ]
+SQL: SELECT * FROM `think_goodsdescribe`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001423s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001722s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046135s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046411s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001374s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002022s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002255s ]
+
+[ 2017-05-24T22:32:23+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001019s ]
+
+[ 2017-05-24T22:38:05+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002710s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_goodsdescribe` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `think_goodsdescribe`  [ RunTime:0.0022s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001529s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001861s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046044s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046326s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001457s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001761s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002187s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002458s ]
+
+[ 2017-05-24T22:38:05+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001461s ]
+
+[ 2017-05-24T22:41:27+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002956s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_goodsdescribe` [ RunTime:0.0094s ]
+SQL: SELECT * FROM `think_goodsdescribe`  [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000409s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000708s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045111s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045396s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004050s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004302s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002697s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002966s ]
+
+[ 2017-05-24T22:41:27+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001692s ]
+
+[ 2017-05-24T22:41:27+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001839s ]
+
+[ 2017-05-24T22:41:47+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001102s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002219s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_goodsdescribe` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `think_goodsdescribe`  [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000462s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000743s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052629s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052967s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001133s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001360s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002038s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002272s ]
+
+[ 2017-05-24T22:41:47+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001666s ]
+
+[ 2017-05-24T22:43:44+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001779s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003358s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_goodsdescribe` [ RunTime:0.0089s ]
+SQL: SELECT * FROM `think_goodsdescribe`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000455s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000747s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045370s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045639s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002036s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002519s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002810s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003085s ]
+
+[ 2017-05-24T22:43:45+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001268s ]
+
+[ 2017-05-24T22:43:53+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005622s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002715s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_goodsdescribe` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `think_goodsdescribe`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000435s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000724s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049181s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049486s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001479s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001792s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002282s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002517s ]
+
+[ 2017-05-24T22:43:54+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001748s ]
+
+[ 2017-05-24T22:44:05+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002609s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_goodsdescribe` [ RunTime:0.0099s ]
+SQL: SELECT * FROM `think_goodsdescribe`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000447s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000800s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045131s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045416s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001862s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002112s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002636s ]
+
+[ 2017-05-24T22:44:05+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001416s ]
+
+[ 2017-05-24T22:44:13+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001127s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001636s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001876s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_goodsdescribe` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `think_goodsdescribe`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000509s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000803s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041859s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042142s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001058s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001409s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002347s ]
+
+[ 2017-05-24T22:44:13+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001231s ]
+
+[ 2017-05-24T22:58:13+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001463s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003037s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_goodsdescribe` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `think_goodsdescribe`  [ RunTime:0.0028s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001533s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044693s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045008s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001771s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002645s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002912s ]
+
+[ 2017-05-24T22:58:13+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001659s ]
+
+[ 2017-05-24T22:59:11+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001836s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004003s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_goodsdescribe` [ RunTime:0.0085s ]
+SQL: SELECT * FROM `think_goodsdescribe`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000427s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000705s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043629s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043908s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002212s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002478s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002825s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003062s ]
+
+[ 2017-05-24T22:59:12+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002291s ]
+
+[ 2017-05-24T22:59:12+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003059s ]
+
+[ 2017-05-24T22:59:12+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001495s ]
+
+[ 2017-05-24T22:59:12+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001877s ]
+
+[ 2017-05-24T22:59:12+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002182s ]
+
+[ 2017-05-24T22:59:12+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002171s ]
+
+[ 2017-05-24T22:59:12+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002208s ]
+
+[ 2017-05-24T23:00:05+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001627s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003830s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_goodsdescribe` [ RunTime:0.0085s ]
+SQL: SELECT * FROM `think_goodsdescribe`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000507s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000805s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046193s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046550s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001804s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002077s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003240s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003543s ]
+
+[ 2017-05-24T23:00:05+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001574s ]
+
+[ 2017-05-24T23:21:30+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002522s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_goodsdescribe` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `think_goodsdescribe`  [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000442s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045781s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046066s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001281s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001545s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002264s ]
+
+[ 2017-05-24T23:21:30+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001836s ]
+
+[ 2017-05-24T23:21:34+08:00 ] ::1 /speed/index.php/Home/Goods/goodsUpdatado
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002745s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+ERR: 非法操作:goodsUpdatado
+
+[ 2017-05-24T23:21:56+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002654s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_goodsdescribe` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `think_goodsdescribe`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000434s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000724s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044493s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044804s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001405s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001646s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002374s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002623s ]
+
+[ 2017-05-24T23:21:57+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001177s ]
+
+[ 2017-05-24T23:22:03+08:00 ] ::1 /speed/index.php/Home/Goods/goodsUpdatado
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001497s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002860s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_goodsdescribe` [ RunTime:0.0090s ]
+SQL: UPDATE `think_goodsdescribe` SET `goods_name`='牛奶',`goods_long`='1',`goods_wide`='1',`goods_weight`='2',`goods_type`='易碎品' WHERE `goods_id` = '001' [ RunTime:0.1355s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003121s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003409s ]
+
+[ 2017-05-24T23:22:05+08:00 ] ::1 /speed/Home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003028s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_goodsdescribe` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `think_goodsdescribe`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000422s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000683s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043746s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044017s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001738s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001969s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002992s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003239s ]
+
+[ 2017-05-24T23:22:05+08:00 ] ::1 /speed/Home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001369s ]
+

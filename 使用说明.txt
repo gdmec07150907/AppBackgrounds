@@ -1,0 +1,3 @@
+将speed复制到wamp->www目录下
+导入数据库
+访问地址：http://localhost/speed/index.php/Home/login

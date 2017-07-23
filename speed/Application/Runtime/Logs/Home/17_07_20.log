@@ -1,0 +1,217 @@
+[ 2017-07-20T19:49:11+08:00 ] ::1 /speed/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.039831s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.043360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.043675s ]
+SQL: SHOW COLUMNS FROM `think_userinfo` [ RunTime:0.0537s ]
+SQL: SELECT * FROM `think_userinfo`  [ RunTime:0.0017s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000260s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000400s ]
+NOTIC: [8] Undefined variable: session C:\wamp\www\speed\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 125 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.238837s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.239166s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009750s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009919s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011283s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011417s ]
+
+[ 2017-07-20T19:49:11+08:00 ] ::1 /speed/home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+
+[ 2017-07-20T19:49:17+08:00 ] ::1 /speed/home/driver
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001199s ]
+SQL: SHOW COLUMNS FROM `think_driverinfo` [ RunTime:0.0521s ]
+SQL: SELECT * FROM `think_driverinfo`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000579s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000850s ]
+NOTIC: [8] Undefined variable: session C:\wamp\www\speed\Application\Runtime\Cache\Home\811c9b113c1df53613cbc750f9e0c773.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064852s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.065112s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002754s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002989s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003652s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003822s ]
+
+[ 2017-07-20T19:49:17+08:00 ] ::1 /speed/home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+
+[ 2017-07-20T19:49:20+08:00 ] ::1 /speed/home/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001102s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001225s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\AdminController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\AdminController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_administrators` [ RunTime:0.0728s ]
+SQL: SELECT * FROM `think_administrators`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000653s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001133s ]
+NOTIC: [8] Undefined variable: session C:\wamp\www\speed\Application\Runtime\Cache\Home\c506a66e5fd5c20a850e05056283aa1e.php 第 126 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066820s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067076s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002831s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003065s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003741s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003984s ]
+
+[ 2017-07-20T19:49:20+08:00 ] ::1 /speed/home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2017-07-20T19:49:24+08:00 ] ::1 /speed/home/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001145s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\GoodsController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_goodsdescribe` [ RunTime:0.0696s ]
+SQL: SELECT * FROM `think_goodsdescribe`  [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000142s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000231s ]
+NOTIC: [8] Undefined variable: session C:\wamp\www\speed\Application\Runtime\Cache\Home\63839bc489ada1b251c78e0251f28b7d.php 第 104 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046553s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046720s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000815s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000882s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001106s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001183s ]
+
+[ 2017-07-20T19:49:25+08:00 ] ::1 /speed/home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000857s ]
+
+[ 2017-07-20T19:49:27+08:00 ] ::1 /speed/home/address
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001180s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\AddressController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\AddressController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_deliveryaddressinfo` [ RunTime:0.0863s ]
+SQL: SELECT * FROM `think_deliveryaddressinfo`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000217s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000353s ]
+NOTIC: [8] Undefined variable: session C:\wamp\www\speed\Application\Runtime\Cache\Home\929ce7e01bdc2735067bc2761c003306.php 第 106 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.059453s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059645s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001398s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001519s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002251s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002426s ]
+
+[ 2017-07-20T19:49:27+08:00 ] ::1 /speed/home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+
+[ 2017-07-20T19:49:30+08:00 ] ::1 /speed/home/evaluate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001176s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001286s ]
+NOTIC: [2] include(Home\Conf\config.php): failed to open stream: No such file or directory C:\wamp\www\speed\Application\Home\Controller\EvaluateController.class.php 第 4 行.
+NOTIC: [2] include(): Failed opening 'Home\Conf\config.php' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\speed\Application\Home\Controller\EvaluateController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_evaluation` [ RunTime:0.0499s ]
+SQL: SELECT * FROM `think_evaluation`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000229s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000368s ]
+NOTIC: [8] Undefined variable: session C:\wamp\www\speed\Application\Runtime\Cache\Home\5a8c738d77f3e9670b316b294e6bd176.php 第 102 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.061929s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062132s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001415s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001552s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002015s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002150s ]
+
+[ 2017-07-20T19:49:30+08:00 ] ::1 /speed/home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2017-07-20T19:49:36+08:00 ] ::1 /speed/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001159s ]
+SQL: SHOW COLUMNS FROM `think_userinfo` [ RunTime:0.0266s ]
+SQL: SELECT * FROM `think_userinfo`  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000207s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000317s ]
+NOTIC: [8] Undefined variable: session C:\wamp\www\speed\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 125 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028510s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028690s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001075s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001168s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001481s ]
+
+[ 2017-07-20T19:49:36+08:00 ] ::1 /speed/home/images/img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2017-07-20T19:49:54+08:00 ] ::1 /speed/index.php/Home/Index/userUpdatado
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001218s ]
+SQL: SHOW COLUMNS FROM `think_userinfo` [ RunTime:0.0402s ]
+SQL: UPDATE `think_userinfo` SET `user_name`='admin',`user_realName`='aa',`user_phone`='13268040450',`user_idNumber`='aa',`user_email`='aa',`user_gender`='男',`user_state`='可用',`user_credit`='1' WHERE `user_id` = 20 [ RunTime:0.0951s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004483s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004820s ]
+

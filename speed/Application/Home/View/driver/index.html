@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>速捷管理后台</title>
+
+   <include file="public/link" />
+   
+  <script type="text/javascript">
+var w,h,className;
+function getSrceenWH(){
+  w = $(window).width();
+  h = $(window).height();
+  $('#userdialogBg').width(w).height(h);
+}
+
+window.onresize = function(){  
+  getSrceenWH();
+}  
+$(window).resize();  
+
+$(function(){
+  getSrceenWH();
+  
+  //显示弹框
+  $('.fuck #update').click(function(){
+    className = $(this).attr('class');
+    $('#driverdialogBg').fadeIn(300);
+    $('#driverdialog').removeAttr('class').addClass('animated '+className+'').fadeIn();
+  });
+  
+  //关闭弹窗
+  $('.claseDialogBtn').click(function(){
+    $('#driverdialogBg').fadeOut(300,function(){
+      $('#driverdialog').addClass('bounceOutUp').fadeOut();
+    });
+  });
+});
+
+$(function(){
+  getSrceenWH();
+  
+  //显示弹框
+  $('.input-group a').click(function(){
+    className = $(this).attr('class');
+    $('#driveraddBg').fadeIn(300);
+    $('#driveradd').removeAttr('class').addClass('animated '+className+'').fadeIn();
+  });
+  //关闭弹窗
+  $('.claseDialogBtn').click(function(){
+    $('#driveraddBg').fadeOut(300,function(){
+      $('#driveradd').addClass('bounceOutUp').fadeOut();
+    });
+  });
+});
+</script>
+<script>
+$(function(){
+  $(".driver").each(function(){
+    var tmp = $(this).children().eq(11);
+    var btn = tmp.children();
+
+    btn.bind("click",function(){
+      var id = btn.parent().parent().children("td").get(0).innerHTML;
+      $("#id").val(id);
+      var name = btn.parent().parent().children("td").get(1).innerHTML;
+      $("#name").val(name);
+      var realname = btn.parent().parent().children("td").get(2).innerHTML;
+      $("#realname").val(realname);
+      var sex = btn.parent().parent().children("td").get(3).innerHTML;
+      $("#sex").val(sex);
+      var phone = btn.parent().parent().children("td").get(4).innerHTML;
+      $("#phone").val(phone);
+      var email = btn.parent().parent().children("td").get(5).innerHTML;
+      $("#email").val(email);
+      var idnumber = btn.parent().parent().children("td").get(6).innerHTML;
+      $("#idnumber").val(idnumber);
+    })
+  })
+})
+</script>
+<include file="public/left" />
+
+        <!-- top navigation -->
+<include file="public/top" />
+        <!-- /top navigation -->
+
+        <!-- page content -->
+        <div class="right_col" role="main">
+          <div class="">
+            <div class="page-title">
+              <div class="title_left">
+                <h3>司机信息管理表</h3>
+              </div>
+
+             <form action="__URL__/../driver" method="get" name="search">
+              <div class="title_right">
+                <div class="col-md-5 col-sm-5 col-xs-12 form-group pull-right top_search">
+                  <div class="input-group">
+                    <input type="text" class="form-control" name="searchThing" placeholder="搜索">
+                    <span class="input-group-btn">
+                      <button class="btn btn-default" name="btn" >search</button>
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </form>
+
+            <div class="clearfix"></div>
+
+            <div class="row">
+              <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="x_panel">
+                  <div class="x_content">
+                  <div class="fuck"> 
+                    <table id="datatable" class="table table-striped table-bordered">
+                      <thead>
+                        <tr>
+                          <th>编号</th>
+                          <th>昵称</th>
+                          <th>真实姓名</th>
+                          <th>性别</th>
+                          <th>手机号码</th>
+                          <th>邮箱地址</th>
+                          <th>身份证号</th>
+                          <th>注册日期</th>
+                          <th>信用等级</th>
+                          <th>好评率</th>
+                          <th>账户状态</th>
+                          <th>操作</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                      <volist name="list" id="driver">
+                        <tr class="driver">
+                          <td>{$driver.driver_id}</td>
+                          <td>{$driver.driver_name}</td>
+                          <td>{$driver.driver_realname}</td>
+                          <td>{$driver.driver_gender}</td>
+                          <td>{$driver.driver_phone}</td>
+                          <td>{$driver.driver_email}</td>
+                          <td>{$driver.driver_idnumber}</td>
+                          <td>{$driver.driver_date}</td>
+                          <td>{$driver.driver_credit}</td>
+                          <td>{$driver.driver_star}</td>
+                          <td>{$driver.driver_state}</td>
+                          <td><button><a href="javascript:;" id="update">修改</a></button>
+                              <button><a href="__URL__/delete/driver_id/{$driver.driver_id}" onclick='return del();'>删除</a></button></td>
+                        </tr>
+                        </volist>
+                      </tbody>
+                    </table>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        <script>
+          function del()
+          {
+            if(confirm("确定要删除吗？")){
+              return true;
+          } else{
+              return false;
+            } 
+          }
+        </script>
+
+        <div id="driverdialogBg"></div>
+    <div id="driverdialog" class="animated">
+      <img class="dialogIco" width="50" height="50" src="../Public/images/ico.png" alt="" />
+      <div class="dialogTop">
+        <a href="javascript:;" class="claseDialogBtn">关闭</a>
+      </div>
+      <form action="__URL__/driverUpdatado" method="post" id="editForm">
+        <ul class="editInfos">
+          <li><label>编&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;号：<input type="text" name="id" required value="" class="ipt" id="id" readonly="true"/></label></li>
+          <li><label>昵&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;称：<input type="text" name="name" required value="" class="ipt" id="name"/></label></li>
+          <li><label>真实&nbsp;&nbsp;&nbsp;姓名：<input type="text" name="realname" required value="" class="ipt" id="realname"/></label></li>
+          <li><label>性&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;别：
+          <select class="ipt" id="sex" name="sex">
+            <option value="男">男&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</option>
+            <option value="女">女</option>
+          </select>
+          </label></li>
+          <li><label>手机&nbsp;&nbsp;&nbsp;号码：<input type="text" name="phone" required value="" class="ipt" id="phone"/></label></li>
+          <li><label>邮箱&nbsp;&nbsp;&nbsp;地址：<input type="text" name="email" required value="" class="ipt" id="email" /></label></li> 
+          <li><label>身份证号码：<input type="text" name="idnumber" required value="" class="ipt" id="idnumber" /></label></li>
+          <li><label>信用&nbsp;&nbsp;等级：
+          <select class="ipt" id="credit" name="credit">
+            <option value="1">1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </label></li>
+         <li><label>好&nbsp;&nbsp;&nbsp;评&nbsp;&nbsp;率：
+          <select class="ipt" id="star" name="star">
+            <option value="1">1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </label></li>
+          <li><label>账户&nbsp;&nbsp;&nbsp;状态：
+          <select class="ipt" id="state" name="state">
+            <option value="可用">可用&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</option>
+            <option value="不可用">不可用</option>
+          </select>
+        </label></li>
+          <li><input type="submit" value="确认提交" class="submitBtn" name="sub" /></li>
+        </ul>
+      </form>
+    </div>
+
+    <div id="driveraddBg"></div>
+    <div id="driveradd" class="animated">
+      <img class="dialogIco" width="50" height="50" src="../Public/images/ico.png" alt="" />
+      <div class="dialogTop">
+        <a href="javascript:;" class="claseDialogBtn">关闭</a>
+      </div>
+      <form action="__URL__/driverAdddo" method="post" id="editForm">
+        <ul class="editInfos">
+          <li><label>用&nbsp;&nbsp;&nbsp;户&nbsp;&nbsp;&nbsp;&nbsp;名：<input type="text" name="name1" required value="" class="ipt" id="name1"/></label></li>
+          <li><label>密&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;码：<input type="password" name="password1" required value="" class="ipt" id="password1"/></label></li>
+          <li><label>真实&nbsp;&nbsp;&nbsp;姓名：<input type="text" name="realname1" required value="" class="ipt" id="realname1"/></label></li>
+          <li><label>性&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;别：
+          <select class="ipt" id="sex1" name="sex1">
+          <option value="男">男&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</option>
+          <option value="女">女</option>
+          </select>
+          </label></li>
+          <li><label>手机&nbsp;&nbsp;&nbsp;号码：<input type="text" name="phone1" required value="" class="ipt" id="phone1" /></label></li>
+          <li><label>邮箱&nbsp;&nbsp;&nbsp;地址：<input type="text" name="email1" required value="" class="ipt" id="email1"/></label></li>
+          <li><label>身份证号码：<input type="text" name="idnumber1" required value="" class="ipt" id="idnumber1" /></label></li>
+          <li><input type="submit" value="确认提交" class="submitBtn" name="sub1" /></li>
+        </ul>
+      </form>
+    </div>
+        </div>
+        <!-- /page content -->
+
+        <!-- footer content -->
+<include file="public/footer" />

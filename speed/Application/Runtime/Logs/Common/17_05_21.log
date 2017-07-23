@@ -1,0 +1,120 @@
+[ 2017-05-21T21:22:52+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001122s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-05-21T21:24:14+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001900s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-05-21T21:26:32+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001279s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-05-21T21:26:39+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001333s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-05-21T21:28:40+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001845s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-05-21T21:29:22+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003172s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-05-21T21:30:39+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001245s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-05-21T21:31:11+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001767s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-05-21T21:31:51+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001188s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-05-21T21:32:46+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-05-21T21:32:53+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001402s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-05-21T21:42:21+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001868s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-05-21T21:42:59+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002197s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-05-21T21:51:16+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004171s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-05-21T21:53:13+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001748s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-05-21T21:58:40+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002097s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-05-21T21:59:04+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002277s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-05-21T22:03:05+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002183s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-05-21T22:07:26+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001726s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-05-21T22:08:24+08:00 ] ::1 /speed/vendors/pdfmake/build/vfs_fonts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002350s ]
+ERR: 无法加载模块:Vendors
+

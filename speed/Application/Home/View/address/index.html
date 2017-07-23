@@ -1,0 +1,149 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>速捷管理后台</title>
+
+   <include file="public/link" />
+   
+  <script type="text/javascript">
+var w,h,className;
+function getSrceenWH(){
+  w = $(window).width();
+  h = $(window).height();
+  $('#goodsdialogBg').width(w).height(h);
+}
+
+window.onresize = function(){  
+  getSrceenWH();
+}  
+$(window).resize();  
+
+$(function(){
+  getSrceenWH();
+  
+  //显示弹框
+  $('.fuck #update').click(function(){
+    className = $(this).attr('class');
+    $('#addressdialogBg').fadeIn(300);
+    $('#addressdialog').removeAttr('class').addClass('animated '+className+'').fadeIn();
+  });
+  
+  //关闭弹窗
+  $('.claseDialogBtn').click(function(){
+    $('#addressdialogBg').fadeOut(300,function(){
+      $('#addressdialog').addClass('bounceOutUp').fadeOut();
+    });
+  });
+});
+</script>
+<script>
+$(function(){
+  $(".address").each(function(){
+    var tmp = $(this).children().eq(7);
+    var btn = tmp.children();
+
+    btn.bind("click",function(){
+      var id = btn.parent().parent().children("td").get(0).innerHTML;
+      $("#id").val(id);
+      var postcode = btn.parent().parent().children("td").get(1).innerHTML;
+      $("#postcode").val(postcode);
+      var province = btn.parent().parent().children("td").get(2).innerHTML;
+      $("#province").val(province);
+      var city = btn.parent().parent().children("td").get(3).innerHTML;
+      $("#city").val(city);
+      var area = btn.parent().parent().children("td").get(4).innerHTML;
+      $("#area").val(area);
+      var street = btn.parent().parent().children("td").get(5).innerHTML;
+      $("#street").val(street);
+      var streetno = btn.parent().parent().children("td").get(6).innerHTML;
+      $("#streetno").val(streetno);
+    })
+  })
+})
+</script>
+<include file="public/left" />
+
+        <!-- top navigation -->
+<include file="public/top" />
+        <!-- /top navigation -->
+
+        <!-- page content -->
+        <div class="right_col" role="main">
+          <div class="">
+            <div class="page-title">
+              <div class="title_left">
+                <h3>订单评价管理表</h3>
+              </div>
+            </div>
+            <div class="clearfix"></div>
+            <div class="row">
+              <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="x_panel">
+                  <div class="x_content">
+                  <div class="fuck"> 
+                    <table id="datatable" class="table table-striped table-bordered">
+                      <thead>
+                        <tr>
+                          <th>快件编号</th>
+                          <th>邮政编码</th>
+                          <th>省</th>
+                          <th>市</th>
+                          <th>区</th>
+                          <th>街区</th>
+                          <th>门牌号</th>
+                          <th>操作</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                      <volist name="list" id="address">
+                        <tr class="address">
+                          <td>{$address.goods_id}</td>
+                          <td>{$address.address_id}</td>
+                          <td>{$address.delivery_province}</td>
+                          <td>{$address.delivery_city}</td>
+                          <td>{$address.delivery_area}</td>
+                          <td>{$address.delivery_street}</td>
+                          <td>{$address.delivery_streetno}</td>
+                          <td><button><a href="javascript:;" id="update">修改</a></button></td>
+                        </tr>
+                        </volist>
+                      </tbody>
+                    </table>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        <div id="addressdialogBg"></div>
+    <div id="addressdialog" class="animated">
+      <img class="dialogIco" width="50" height="50" src="../Public/images/ico.png" alt="" />
+      <div class="dialogTop">
+        <a href="javascript:;" class="claseDialogBtn">关闭</a>
+      </div>
+      <form action="__URL__/addressUpdatado" method="post" id="editForm">
+        <ul class="editInfos">
+          <li><label>快件&nbsp;&nbsp;&nbsp;&nbsp;编号：<input type="text" name="id" required value="" class="ipt" id="id" readonly="true"/></label></li>
+          <li><label>邮政&nbsp;&nbsp;&nbsp;&nbsp;编码：<input type="text" name="postcode" required value="" class="ipt" id="postcode"/></label></li>
+          <li><label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;省：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="province" required value="" class="ipt" id="province"/></label></li>
+          <li><label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;市：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="city" required value="" class="ipt" id="city"/></label></li>
+          <li><label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;区：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="area" required value="" class="ipt" id="area"/></label></li>
+          <li><label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;街区：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="street" required value="" class="ipt" id="street"/></label></li>
+          <li><label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;门牌：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="streetno" required value="" class="ipt" id="streetno"/></label></li>
+          <li><input type="submit" value="确认提交" class="submitBtn" name="sub" /></li>
+        </ul>
+      </form>
+    </div>
+        </div>
+        <!-- /page content -->
+
+        <!-- footer content -->
+<include file="public/footer" />
